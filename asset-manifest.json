@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/time-tracking/static/css/main.b65ef813.chunk.css",
+    "main.js": "/time-tracking/static/js/main.52d2fa5f.chunk.js",
+    "main.js.map": "/time-tracking/static/js/main.52d2fa5f.chunk.js.map",
+    "runtime-main.js": "/time-tracking/static/js/runtime-main.d0121612.js",
+    "runtime-main.js.map": "/time-tracking/static/js/runtime-main.d0121612.js.map",
+    "static/js/2.bb7ab3fa.chunk.js": "/time-tracking/static/js/2.bb7ab3fa.chunk.js",
+    "static/js/2.bb7ab3fa.chunk.js.map": "/time-tracking/static/js/2.bb7ab3fa.chunk.js.map",
+    "index.html": "/time-tracking/index.html",
+    "static/css/main.b65ef813.chunk.css.map": "/time-tracking/static/css/main.b65ef813.chunk.css.map",
+    "static/js/2.bb7ab3fa.chunk.js.LICENSE.txt": "/time-tracking/static/js/2.bb7ab3fa.chunk.js.LICENSE.txt",
+    "static/media/icon-ellipsis.a57a4ac8.svg": "/time-tracking/static/media/icon-ellipsis.a57a4ac8.svg",
+    "static/media/item.css": "/time-tracking/static/media/icon-work.a3f124e5.svg",
+    "static/media/image-jeremy.71cd41f1.png": "/time-tracking/static/media/image-jeremy.71cd41f1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0121612.js",
+    "static/js/2.bb7ab3fa.chunk.js",
+    "static/css/main.b65ef813.chunk.css",
+    "static/js/main.52d2fa5f.chunk.js"
+  ]
+}
